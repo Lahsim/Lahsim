@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Lahsim
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning andriod app development & python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
